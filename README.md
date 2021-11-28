@@ -78,6 +78,6 @@ Made with 💕 by [@Attack](https://t.me/AttackTor). <br />
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Attack-tor">
+    <img src="https://komarev.com/ghpvc/?username=Attacktorr">
 </a>
 <a href="https://github.com/Attack-tor?tab=followers"><img src="https://img.shields.io/github/followers/Attack-tor?label=Followers&style=social" alt="GitHub Badge"></a>
